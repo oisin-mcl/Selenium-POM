@@ -1,4 +1,4 @@
-![image](https://github.com/oisin-mcl/Selenium-POM-Example/assets/56615317/90188f67-2c0d-4a6f-92d9-87639be89f78)# Selenium-POM-Example
+# Selenium-POM-Example
 
 This project is a basic framework designed in C# using Selenium, to showcase how to begin designing and implementing UI Automation.
 

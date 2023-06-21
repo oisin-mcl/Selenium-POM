@@ -43,6 +43,6 @@ Lastly, the TearDown method. This will be clean up after the test, where we shou
 Following these simple setup steps, we can finally run the tests. When right clicking on the "Tests" folder > select Run Tests.
 
 Following the completion, you will be able to see the results as shown here:
-![Uploading image.png…]()
+![image](https://github.com/oisin-mcl/Selenium-POM/assets/56615317/2a5a8905-afca-4462-bd84-68e48c5dca83)
 
 This is a very basic example to highlight how we should organise and structure our test cases in Selenium. Even in these brief examples we can see that this test is independant, easily understood and very maintainable; 3 of the most important pillars of automation. This can be further improved by removing the serialization nature of these tests, and implementing NUnit parallel threads etc.
